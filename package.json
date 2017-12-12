@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "lodash": "^4.17.4"
-  }
+  },
+  "name": "@fmfe/handle-name",
+  "description": "handle-name ======",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmfe/handle-name.git"
+  },
+  "keywords": [
+    "handle-name"
+  ],
+  "author": "chenhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmfe/handle-name/issues"
+  },
+  "homepage": "https://github.com/fmfe/handle-name#readme"
 }
