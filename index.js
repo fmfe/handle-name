@@ -1,7 +1,6 @@
 const _ = require('lodash');
 
 module.exports = (obj, whiteList = []) => {
-    console.log(whiteList);
     return _.transform(obj, (result, value, key) => {
         let name = key;
         const flag = whiteList.indexOf(key); 
